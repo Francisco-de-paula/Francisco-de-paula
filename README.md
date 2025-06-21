@@ -21,3 +21,9 @@
 
 ### 🧠 Não sou júnior, sou determinado!
 A tecnologia me inspira, e minha trajetória de vida me dá a clareza que muitos ainda estão buscando.  Apaixonado por tecnologia, estou em transição de carreira com foco total no aprendizado!
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francisco-de-paula/Francisco-de-paula/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francisco-de-paula/Francisco-de-paula/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Francisco-de-paula/fabiuladorafael/output/github-contribution-grid-snake.svg">
+</picture>
