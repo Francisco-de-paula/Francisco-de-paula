@@ -27,3 +27,5 @@ A tecnologia me inspira, e minha trajetória de vida me dá a clareza que muitos
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francisco-de-paula/Francisco-de-paula/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Francisco-de-paula/fabiuladorafael/output/github-contribution-grid-snake.svg">
 </picture>
+
+![Avatar Personalizado](/tree/main/.github/workflows/blob/main/Desenho%20estilo%20japon.png)
